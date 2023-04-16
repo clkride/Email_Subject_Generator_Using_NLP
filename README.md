@@ -11,7 +11,7 @@
 
 
 # Email_Subject_Generator_Using_NLP
-In this project, email body text, subject lines, importance status, and other relevant email details are scraped using python IMAP library. This data is then used to train a recurrent neural network to automatically generate subject line of emails based on body text. 
+This Python-based project offers a valuable solution for extracting and analyzing email data, with potential for diverse use cases in email analytics and natural language processing. The resulting DataFrame provides a wealth of information for investigating and comprehending email communication trends, which can inform the development of more sophisticated and efficient email systems.
 
 
 ## Table of Contents
