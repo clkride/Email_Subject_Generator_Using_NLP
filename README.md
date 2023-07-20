@@ -23,9 +23,12 @@ This Python-based project offers a valuable solution for extracting and analyzin
 
 ## About Data Set
 The dataset consists of a collection of email messages that have been scraped from email inboxes. The dataset includes both the email body and subject lines text of the messages. For security purposes, the dataset cannot be shared. However, the dataset is expected to be representative of typical email messages and subject lines that one might find in an email inbox. The messages may include a variety of topics, including business, personal, social, and promotional messages.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Description
+
+In this project I have used a pre-trained model namely T5 and used instruction fine tuning to achieve effective results for this subject generation task. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
