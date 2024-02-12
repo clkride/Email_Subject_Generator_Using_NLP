@@ -15,7 +15,7 @@ This Python-based project offers a valuable solution for extracting and analyzin
 
 
 ## Table of Contents
-- [About the Data Set](#about-data-set)
+- [About Data Set](#about-data-set)
 - [Project Description](#project-description)
 - [Modeling Approach](#modeling-approach)
 - [Model Performance](#model-performance)
