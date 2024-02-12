@@ -17,6 +17,8 @@ This Python-based project offers a valuable solution for extracting and analyzin
 ## Table of Contents
 - [About the Data Set](#about-data-set)
 - [Project Description](#project-description)
+- [Modeling Approach](#modeling-approach)
+- [Model Performance](#model-performance)
 - [Author](#author)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -29,6 +31,11 @@ The dataset consists of a collection of email messages that have been scraped fr
 ## Project Description
 
 In this project I have used a pre-trained model namely T5 and used instruction fine tuning to achieve effective results for this subject generation task. 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Modeling Approach
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
