@@ -1,5 +1,10 @@
 <a name="readme-top"></a>
-
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/clkride/Email_Subject_Generator_Using_NLP?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/clkride/Email_Subject_Generator_Using_NLP?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/clkride/Email_Subject_Generator_Using_NLP?style=flat-square)
+![GitHub watchers](https://img.shields.io/github/watchers/clkride/Email_Subject_Generator_Using_NLP?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/clkride/Email_Subject_Generator_Using_NLP?style=flat-square)
+![GitHub](https://img.shields.io/github/license/clkride/Email_Subject_Generator_Using_NLP?style=flat-square)
 <a href="https://linkedin.com/in/abbas-singapurwala">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
